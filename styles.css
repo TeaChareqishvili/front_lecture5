@@ -90,3 +90,18 @@ p{
 	color: #171717;
 	padding-bottom: 18px;
 }
+
+.add-info{
+	width: 341px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 58px;
+	margin-bottom: 180px;
+}
+
+.button{
+	color: #ffffff;
+	background-color: #0A22F4;
+	padding: 18px 77px 18px 57px;
+	border-radius: 28px;
+}
