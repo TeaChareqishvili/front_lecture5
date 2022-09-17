@@ -105,3 +105,46 @@ p{
 	padding: 18px 77px 18px 57px;
 	border-radius: 28px;
 }
+
+footer{
+	background-color: #0A22F4;
+}
+
+.location{
+	width: 463px;
+	margin-left: 240px;
+	padding-top: 100px;
+	padding-bottom: 58px;
+	
+
+
+}
+
+.contacts{
+	color: #ffffff;
+}
+
+.map{
+	width: 463px;
+	height: 200px;
+
+}
+
+.footer-logo{
+	width: 26px;
+	height: 26px;
+	background-color: #ffffff;
+	border-radius: 50px;
+	margin-left: 260px;
+}
+
+
+
+.address{
+	display: inline-block;
+
+}
+
+.number{
+	display: inline-block;
+}
