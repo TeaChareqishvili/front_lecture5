@@ -21,6 +21,8 @@ header{
 
 }
 
+
+
 .list{
 	color: #ffffff;
 	padding-left: 43px;
@@ -143,26 +145,73 @@ footer{
 
 .map{
 	width: 463px;
-	height: 200px;
-
+	height: 197px;
+	margin-top: 30px;
 }
 
+
 .footer-logo{
-	width: 26px;
-	height: 26px;
+	width: 70px;
+	height: 70px;
+	padding: 22px;
 	background-color: #ffffff;
 	border-radius: 50px;
 	margin-left: 260px;
-	
+	vertical-align: bottom;
 
 }
 
 .address{
 	display: inline-block;
+	margin-bottom: 206px;
 
 }
 
 .number{
 	display: inline-block;
+	color: #ffffff;
+	padding-left: 22px;
+	vertical-align: middle;
 }
 
+.rights{
+	display: inline-block;
+
+}
+.all-rights{
+	display: inline-block;
+	color: #FFFFFF;
+	font-family: helveticaNeue;
+    font-weight: normal;
+    font-size: 16px;
+    margin-left:240px;
+    margin-right: 500px;
+    margin-bottom: 40px;
+}
+
+.made-in{
+	display: inline-block;
+	color: #ffffff;
+	font-family: helveticaNeue;
+    font-weight: normal;
+    font-size: 16px;
+
+
+}
+
+.heart{
+	width: 26px;
+	height: 26px;
+	margin-left: 16px;
+	vertical-align: middle;
+
+}
+span{
+	padding-left:10px;
+}
+.ball{
+	width: 121px;
+	height: 35px;
+	vertical-align: middle;
+	margin-left: 30px;
+}
