@@ -29,6 +29,8 @@ header{
 
 .contact{
 	color: #171717;
+	font-family: helevticaNeue;
+	font-weight: bold;
 	font-size: 16px;
 	padding: 18px 43px 18px 36px;
 	border-radius: 28px;
@@ -66,10 +68,20 @@ nav>ul>li{
 }
 
 h1{
+	font-family: helveticaNeue;
+	font-weight: bold;
 	font-size: 28px;
 	color: #171717;
 	margin-top: 30px;
 	margin-bottom: 60px;
+}
+
+h3{
+	font-family: HelveticaNeue;
+	font-weight: bold;
+	font-size: 32px;
+	color: #ffffff;
+	padding-bottom: 18px;
 }
 
 .list-pic{
@@ -86,6 +98,7 @@ h1{
 }
 
 p{
+	font-family: helveticaNeue, normal;
 	font-size: 16px;
 	color: #171717;
 	padding-bottom: 18px;
@@ -100,6 +113,10 @@ p{
 }
 
 .button{
+	font-family: helveticaNeue;
+	font-weight: bold;
+	font-size: 15px;
+	text-align: center;
 	color: #ffffff;
 	background-color: #0A22F4;
 	padding: 18px 77px 18px 57px;
@@ -136,9 +153,9 @@ footer{
 	background-color: #ffffff;
 	border-radius: 50px;
 	margin-left: 260px;
+	
+
 }
-
-
 
 .address{
 	display: inline-block;
@@ -148,3 +165,4 @@ footer{
 .number{
 	display: inline-block;
 }
+
